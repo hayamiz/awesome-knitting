@@ -5,7 +5,7 @@
 			<img src="https://awesome.re/badge-flat.svg" alt="Awesome">
 		</a>					
 		<p>
-			A categorized community-driven collection of amazingly awesome knitting resources.
+			A curated list of amazingly awesome knitting resources.
 			<br><br>
 			Suggestions and contributions are always welcome!
 			<br>			
@@ -33,3 +33,5 @@
 - Add book list
 - Add video list
 - Add software list
+- Add license file
+- Add contribution guideline
