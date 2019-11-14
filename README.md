@@ -33,5 +33,4 @@
 - Add book list
 - Add video list
 - Add software list
-- Add license file
 - Add contribution guideline
